@@ -1,0 +1,3 @@
+### Hello there and welcome to my GitHub profile
+
+My name is Abdiel Cortés (he/him) and I’m a software engineering student at the University of Puerto Rico at Mayagüez. I'm in love with coding and one day I want to be able to create things that make a positive impact on the world. This summer I’m interning at Facebook as part of their FBU iOS program, where I’m learning to develop iOS applications using Objective C. The programming language that I’m most familiar with is Java, but I’m also quite experienced with python and C++. To know more about me you can visit my [portfolio](https://abdielcortes.wixsite.com/portfolio) or my [LinkedIn](https://www.linkedin.com/in/abdiel-cortes/). Additionally, you can email me at abdiel.cortes@upr.edu. 
